@@ -1,0 +1,28 @@
+
+/* nav */
+@media only screen and (min-width: 1496px){
+	.header d-flex flex-row{
+		width:95%;
+	}
+	.main_nav_list{
+		margin-right:35px;
+        padding: 0%;
+	}
+	.logo img{
+		width:7vw !important;
+	    margin-left: -30px;
+	}
+    
+    #nav-item {
+        color:black;
+        display:flex;
+    }
+    /* rotate caret on hover */
+    
+    .drop{
+    display:flex;
+    list-style-type:none;
+    }
+ 
+}
+	
